@@ -1,0 +1,2 @@
+# HelloCoffeeScript
+Coffee Script Puzzle
